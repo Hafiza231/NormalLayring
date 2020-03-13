@@ -1,0 +1,11 @@
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\Layring.EL.dll.config
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\Layring.EL.dll
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\Layring.EL.pdb
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\EntityFramework.dll
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\EntityFramework.xml
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\obj\Debug\Layring.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\obj\Debug\Layring.EntityLayer.csproj.CopyComplete
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\obj\Debug\Layring.EL.dll
+D:\Hafiza\Hafiza-CRUD\Layering\Layring.EL\obj\Debug\Layring.EL.pdb
